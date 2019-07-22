@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1433300-d794-4f2e-aea6-456dee0c78f3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JD$text.coverage" NAME="text Coverage Results" MODIFIED="1545131891887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JD$filename.coverage" NAME="filename Coverage Results" MODIFIED="1545292666678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JD$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1547188835095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider" />
+    <SUITE FILE_PATH="coverage/JD$jingdong.coverage" NAME="jingdong Coverage Results" MODIFIED="1547689754110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JD$fenlei.coverage" NAME="fenlei Coverage Results" MODIFIED="1545274704197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JD$jdgoods_main.coverage" NAME="jdgoods_main Coverage Results" MODIFIED="1547730624975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdgoods_spider" />
+    <SUITE FILE_PATH="coverage/JD$main.coverage" NAME="main Coverage Results" MODIFIED="1547706139643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdgoods_spider" />
+    <SUITE FILE_PATH="coverage/JD$jdshop_main.coverage" NAME="jdshop_main Coverage Results" MODIFIED="1547709970812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdgoods_spider" />
+    <SUITE FILE_PATH="coverage/JD$leibie.coverage" NAME="leibie Coverage Results" MODIFIED="1545098362229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/goods" />
+    <SUITE FILE_PATH="coverage/JD$jdgoods.coverage" NAME="jdgoods Coverage Results" MODIFIED="1547262342271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders" />
+    <SUITE FILE_PATH="coverage/JD$jd.coverage" NAME="jd Coverage Results" MODIFIED="1547621313697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JD$jdgoods_temp.coverage" NAME="jdgoods_temp Coverage Results" MODIFIED="1547710911062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders" />
+    <SUITE FILE_PATH="coverage/JD$jdgoodstemp_main.coverage" NAME="jdgoodstemp_main Coverage Results" MODIFIED="1547721984664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jdgoods_spider" />
+    <SUITE FILE_PATH="coverage/JD$crawl_xici.coverage" NAME="crawl_xici Coverage Results" MODIFIED="1547024904047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JD" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fenlei.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180780">
+              <caret line="7860" column="11" selection-start-line="7860" selection-start-column="11" selection-end-line="7860" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jingdong.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-874">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders/jdshop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders/jdgoods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+              <folding>
+                <element signature="e#24#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2352" selection-start-column="2352" selection-end-column="2352" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoodstemp_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>meta</find>
+      <find>+++++++++++++++++++++++++++++</find>
+      <find>goods</find>
+      <find>good</find>
+      <find>spider_closed</find>
+      <find>path</find>
+      <find>spec-img</find>
+      <find>shangpin|keycount|product|shangpinpingjia_1</find>
+      <find>price</find>
+      <find>parse</find>
+      <find>存储到MONGODB成功</find>
+      <find>正在翻页</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>goods[0]</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/goods/服饰内衣.py" />
+        <option value="$PROJECT_DIR$/goods/钟表.py" />
+        <option value="$PROJECT_DIR$/goods/allsorts.py" />
+        <option value="$PROJECT_DIR$/goods/鞋靴.py" />
+        <option value="$PROJECT_DIR$/goods/母婴.py" />
+        <option value="$PROJECT_DIR$/goods/礼品箱包.py" />
+        <option value="$PROJECT_DIR$/goods/食品饮料_保健食品.py" />
+        <option value="$PROJECT_DIR$/goods/珠宝.py" />
+        <option value="$PROJECT_DIR$/goods/汽车用品.py" />
+        <option value="$PROJECT_DIR$/goods/运动健康.py" />
+        <option value="$PROJECT_DIR$/goods/玩具乐器.py" />
+        <option value="$PROJECT_DIR$/goods/彩票旅行充值票务.py" />
+        <option value="$PROJECT_DIR$/goods/生鲜.py" />
+        <option value="$PROJECT_DIR$/goods/整车.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider-master/jdgoods_spider/spiders/jdgoods.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider-master/jdgoods_spider/settings.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider-master/jdgoods_spider/pipelines.py" />
+        <option value="$PROJECT_DIR$/allsort/allsort/pipelines.py" />
+        <option value="$PROJECT_DIR$/allsort/allsort/settings.py" />
+        <option value="$PROJECT_DIR$/allsort/allsort/middlewares.py" />
+        <option value="$PROJECT_DIR$/get.json" />
+        <option value="$PROJECT_DIR$/jingdong/jingdong/settings.py" />
+        <option value="$PROJECT_DIR$/jingdong/jingdong/spiders/jingd.py" />
+        <option value="$PROJECT_DIR$/allsort/allsort/items.py" />
+        <option value="$PROJECT_DIR$/allsort/allsort/spiders/sortjd.py" />
+        <option value="$PROJECT_DIR$/classify.py" />
+        <option value="$PROJECT_DIR$/goods/leibie.py" />
+        <option value="$PROJECT_DIR$/text.py" />
+        <option value="$PROJECT_DIR$/filename.py" />
+        <option value="$PROJECT_DIR$/fenlei.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/main.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/main.py" />
+        <option value="$PROJECT_DIR$/tools/crawl_xici.py" />
+        <option value="$PROJECT_DIR$/jingdong.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/items.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/settings.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdshop_main.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdgoodstemp_main.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/pipelines.py" />
+        <option value="$PROJECT_DIR$/jd/jd/items.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders/jdshop.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders/jdgoods_temp.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/middlewares.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/text.py" />
+        <option value="$PROJECT_DIR$/jd.py" />
+        <option value="$PROJECT_DIR$/jd/jd/pipelines.py" />
+        <option value="$PROJECT_DIR$/jd/jd/settings.py" />
+        <option value="$PROJECT_DIR$/jd/jd/spiders/jd1.py" />
+        <option value="$PROJECT_DIR$/jd/jd/middlewares.py" />
+        <option value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders/jdgoods.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="274" />
+    <option name="y" value="66" />
+    <option name="width" value="1390" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JD" type="462c0819:PsiDirectoryNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JD" type="462c0819:PsiDirectoryNode" />
+              <item name="jdgoods_spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JD" type="462c0819:PsiDirectoryNode" />
+              <item name="jdgoods_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="jdgoods_spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JD" type="462c0819:PsiDirectoryNode" />
+              <item name="jdgoods_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="jdgoods_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JD\jdgoods_spider" />
+      <recent name="F:\JD" />
+      <recent name="F:\JD\jdgoods_spider\jdgoods_spider" />
+      <recent name="F:\JD\allsort\allsort\spiders" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\JD\jdgoods_spider\jdgoods_spider" />
+      <recent name="F:\JD" />
+      <recent name="F:\JD\jdsorts\jdsorts\spiders" />
+      <recent name="F:\JD\goods" />
+      <recent name="F:\JD\jdsort" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.jdgoods_main">
+    <configuration name="jdgoods_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdgoods_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jdgoods_spider/jdgoods_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jdgoods_temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders/jdgoods_temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jdgoodstemp_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdgoods_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jdgoods_spider/jdgoodstemp_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jdshop_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdgoods_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jdgoods_spider/jdshop_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jdgoods_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\JD\jdgoods_spider\jdgoods_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.jdgoodstemp_main" />
+      <item itemvalue="Python.jdshop_main" />
+      <item itemvalue="Python.jdgoods_temp" />
+      <item itemvalue="Python.jdgoods_main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jdgoods_main" />
+        <item itemvalue="Python.jdgoodstemp_main" />
+        <item itemvalue="Python.jdgoods_temp" />
+        <item itemvalue="Python.jdshop_main" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1433300-d794-4f2e-aea6-456dee0c78f3" name="Default" comment="" />
+      <created>1543203631731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543203631731</updated>
+      <workItem from="1562223793138" duration="6632000" />
+      <workItem from="1562289068967" duration="1962000" />
+      <workItem from="1562292143001" duration="4870000" />
+      <workItem from="1562307399010" duration="86000" />
+      <workItem from="1562553459993" duration="1358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14908000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925038" visible="true" weight="0.18283582" />
+      <window_info id="Structure" order="1" sideWeight="0.50074965" side_tool="true" weight="0.16684435" />
+      <window_info id="Favorites" order="2" sideWeight="0.5012225" side_tool="true" weight="0.16684435" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3135776" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.38469827" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49946696" weight="0.44719827" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.15517241" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3575298" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/goods/leibie.py</url>
+          <line>7421</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tools/crawl_xici.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/Python37/Lib/urllib/parse.py" />
+    <entry file="file://C:/Python/Python37/Lib/site-packages/scrapy/spidermiddlewares/offsite.py" />
+    <entry file="file://C:/Python/Python37/Lib/site-packages/scrapy/spidermiddlewares/urllength.py" />
+    <entry file="file://C:/Python/Python37/Lib/copy.py" />
+    <entry file="file://C:/Python/Python37/Lib/site-packages/scrapy/http/request/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/手机" />
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/手机 html" />
+    <entry file="file://$PROJECT_DIR$/jingdong/手机7108222.html" />
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/手机 .html" />
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/.html" />
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/电脑1.html" />
+    <entry file="file://$PROJECT_DIR$/jingdong/手机7306975.html" />
+    <entry file="file://$PROJECT_DIR$/jingdong/jingdong/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/jingdong/jingdong/spiders/jingd.py" />
+    <entry file="file://C:/Python/Python37/Lib/site-packages/selenium/webdriver/remote/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/jingd.py" />
+    <entry file="file://$PROJECT_DIR$/sort.py" />
+    <entry file="file://$PROJECT_DIR$/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1525">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/）.html" />
+    <entry file="file://$PROJECT_DIR$/视.html" />
+    <entry file="file://$PROJECT_DIR$/机.html" />
+    <entry file="file://C:/Python/Python37/Lib/site-packages/urllib3/util/retry.py" />
+    <entry file="file://C:/Python/Python37/Lib/site-packages/scrapy/spidermiddlewares/referer.py" />
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdshop_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd/jd/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/crawls/somespider-1/requests.queue/p0">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/crawls/somespider-1/requests.queue/active.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/crawls/somespider-1/requests.seen">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1677">
+          <caret line="38800" selection-start-line="38800" selection-end-line="38800" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filename.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1572">
+          <caret column="2114" selection-start-column="2114" selection-end-column="2114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders/jdgoods_temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="59" column="11" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1817">
+          <caret line="79" column="30" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd/jd/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+          <folding>
+            <element signature="e#173#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd/jd/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd/jd/text.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd/jd/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-439">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd/jd/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="144" column="36" lean-forward="true" selection-start-line="144" selection-start-column="36" selection-end-line="144" selection-end-column="36" />
+          <folding>
+            <element signature="e#168#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd/jd/spiders/jd1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fenlei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180780">
+          <caret line="7860" column="11" selection-start-line="7860" selection-start-column="11" selection-end-line="7860" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoodstemp_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jingdong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-874">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders/jdshop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2352" selection-start-column="2352" selection-end-column="2352" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdgoods_spider/jdgoods_spider/spiders/jdgoods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+          <folding>
+            <element signature="e#24#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
